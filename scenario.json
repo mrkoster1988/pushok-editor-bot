@@ -1,0 +1,27 @@
+[
+  [
+    "/submit Проверить материал",
+    false,
+    "Создано #1"
+  ],
+  [
+    "/queue",
+    false,
+    "Ошибка:"
+  ],
+  [
+    "/status 1 | accepted",
+    true,
+    "accepted"
+  ],
+  [
+    "/status 1 | done",
+    true,
+    "done"
+  ],
+  [
+    "/status 1 | accepted",
+    true,
+    "Ошибка:"
+  ]
+]
